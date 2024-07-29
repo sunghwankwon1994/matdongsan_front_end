@@ -1,24 +1,27 @@
-# matdongsan_front_end
+# Matdongsan - 부동산 중개 사이트
 
-## Project setup
-```
-npm install
-```
+**팀 프로젝트**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 프로젝트 소개
+<img width="1335" alt="image" src="https://github.com/user-attachments/assets/41f87fd9-24b2-4627-ae0c-f5851537eddf">
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 주요 기능
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **회원 가입 및 로그인**: 사용자 계정을 생성하고, JWT발급과 인증을 통해 사용자 인증을 합니다.
+  
+- **매물 등록 / 관리**: 등록자는 등록권을 사용하여 한 개의 매물을 등록 할 수 있습니다. 그리고 등록된 매물은 마이페이지에서 관리 할 수 있습니다.
+  
+- **등록권 소개 및 결제**: 매물 등록에 필요한 등록권을 직접 구매 할 수 있도록 만들었고 결제가 끝나면 등록 페이지로 이동할 수 있습니다.
+  
+- **매물 / 중개인 리스트 페이지**: 전체 중개인 / 매물 리스트를 보여주고 검색이나 필터를 통해 해당되는 데이터를 출력합니다.
+  
+- **마이페이지**: 정보 수정, 탈퇴, 매물 내역, 문의 내역 기능을 구현하여 유저가 쉽게 수정, 확인 및 삭제할 수 있습니다.
+
+## 기술 스택
+<img width="769" alt="image" src="https://github.com/user-attachments/assets/49b243bd-ca00-4e84-98dd-bb40dc754638">
+
+## 중요 페이지 구성
+![image](https://github.com/user-attachments/assets/da217e55-7b5a-46a8-b551-c1e63b17c387)
+
+
